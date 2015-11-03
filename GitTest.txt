@@ -1,3 +1,4 @@
 Bonjour,
 
 Voici mes premiers pas sur Git.
+Je commence la version 2
