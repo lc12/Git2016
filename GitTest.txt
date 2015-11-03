@@ -1,0 +1,3 @@
+Bonjour,
+
+Voici mes premiers pas sur Git.
